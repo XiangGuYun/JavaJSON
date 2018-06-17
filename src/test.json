@@ -1,0 +1,14 @@
+{
+  "name":"Lily",
+  "age":18,
+  "birthday":"2000-10-10",
+  "school":"PeiKing",
+  "major":[
+    "math",
+    "english"
+  ],
+  "single_person":false,
+  "car":null,
+  "house":null,
+  "comment":"this is a comment"
+}
