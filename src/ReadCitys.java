@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 用GSON读取省事JSON数据，并保存到JavaBean中
+ * 用GSON读取省市JSON数据，并保存到JavaBean中
  */
 public class ReadCitys {
 
